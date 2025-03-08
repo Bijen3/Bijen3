@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <h1 align="center">Hello World 👋</h1>
 
 ###
@@ -30,6 +24,5 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
 
 
