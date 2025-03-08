@@ -26,24 +26,10 @@
 
 ###
 
-<p align="left">I'm student from Nepal<br><br>- 🔭 I’m working as studet.<br>- 📚 I'm currently learning Backend.<br>- ⚡ CODE</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as studet.<br>- 📚 I'm currently learning Backend.<br>- ⚡ CODE</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
 
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
