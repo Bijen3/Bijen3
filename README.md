@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as studet.<br>- 📚 I'm currently learning Backend.<br>- ⚡ CODE</p>
+<p align="left">I'm student from Nepal.<br>- 📚 I'm currently learning Backend.<br>- ⚡ CODE</p>
 
 ###
 
