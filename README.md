@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm student from Nepal.<br>- 📚 I'm currently learning Backend.<br>- ⚡ CODE</p>
+<p align="left">I'm student from Nepal.<br>- 📚 I'm currently learning frameworks and coding.<br>- ⚡ CODE</p>
 
 ###
 
